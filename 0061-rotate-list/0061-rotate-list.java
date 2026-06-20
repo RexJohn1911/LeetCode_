@@ -10,9 +10,21 @@ class Solution {
         else if(k>len){
             k=k%len;
         }
-        for(int i=0;i<k;i++){
-            head=rotate(head);
+        if(k==0){
+            return head;
         }
+        int br=len-k;
+        ListNode tail=head;
+        while(tail.next!=null){
+            tail=tail.next;
+        }
+        tail.next=head;
+        ListNode temp=head;
+        for(int i=1;i<br;i++){
+            temp=temp.next;
+        }
+        head=temp.next;
+        temp.next=null;
         return head;
     }
     private int length(ListNode head){
@@ -23,19 +35,5 @@ class Solution {
             temp=temp.next;
         }
         return count;
-    }
-    private ListNode rotate(ListNode head){
-        ListNode tail=head;
-        ListNode temp=head;
-        while(tail.next!=null){
-            tail=tail.next;
-        }
-        while(temp.next.next!=null){
-            temp=temp.next;
-        }
-        tail.next=head;
-        temp.next=null;
-        head=tail;
-        return head;
     }
 }
