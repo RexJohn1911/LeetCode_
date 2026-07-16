@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/RexJohn1911/LeetCode_/tree/master/0410-split-array-largest-sum) |
 | [1019-next-greater-node-in-linked-list](https://github.com/RexJohn1911/LeetCode_/tree/master/1019-next-greater-node-in-linked-list) |
 | [1816-truncate-sentence](https://github.com/RexJohn1911/LeetCode_/tree/master/1816-truncate-sentence) |
 | [1833-maximum-ice-cream-bars](https://github.com/RexJohn1911/LeetCode_/tree/master/1833-maximum-ice-cream-bars) |
@@ -33,6 +34,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/RexJohn1911/LeetCode_/tree/master/0410-split-array-largest-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/RexJohn1911/LeetCode_/tree/master/1833-maximum-ice-cream-bars) |
 ## Sorting
 |  |
@@ -54,4 +56,16 @@
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/RexJohn1911/LeetCode_/tree/master/1019-next-greater-node-in-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/RexJohn1911/LeetCode_/tree/master/0410-split-array-largest-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/RexJohn1911/LeetCode_/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/RexJohn1911/LeetCode_/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
