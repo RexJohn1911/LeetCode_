@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RexJohn1911/LeetCode_/tree/master/0002-add-two-numbers) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/RexJohn1911/LeetCode_/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Recursion
 |  |
 | ------- |
