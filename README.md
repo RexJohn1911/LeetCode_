@@ -8,6 +8,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/RexJohn1911/LeetCode_/tree/master/1019-next-greater-node-in-linked-list) |
 | [1816-truncate-sentence](https://github.com/RexJohn1911/LeetCode_/tree/master/1816-truncate-sentence) |
 | [1833-maximum-ice-cream-bars](https://github.com/RexJohn1911/LeetCode_/tree/master/1833-maximum-ice-cream-bars) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/RexJohn1911/LeetCode_/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RexJohn1911/LeetCode_/tree/master/0002-add-two-numbers) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/RexJohn1911/LeetCode_/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/RexJohn1911/LeetCode_/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Recursion
 |  |
