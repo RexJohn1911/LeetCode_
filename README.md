@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/RexJohn1911/LeetCode_/tree/master/0410-split-array-largest-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/RexJohn1911/LeetCode_/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/RexJohn1911/LeetCode_/tree/master/0643-maximum-average-subarray-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/RexJohn1911/LeetCode_/tree/master/1019-next-greater-node-in-linked-list) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RexJohn1911/LeetCode_/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RexJohn1911/LeetCode_/tree/master/0002-add-two-numbers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/RexJohn1911/LeetCode_/tree/master/0628-maximum-product-of-three-numbers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/RexJohn1911/LeetCode_/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/RexJohn1911/LeetCode_/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Recursion
@@ -45,6 +47,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/RexJohn1911/LeetCode_/tree/master/0628-maximum-product-of-three-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/RexJohn1911/LeetCode_/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
