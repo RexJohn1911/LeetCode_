@@ -18,6 +18,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/RexJohn1911/LeetCode_/tree/master/0242-valid-anagram) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RexJohn1911/LeetCode_/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1816-truncate-sentence](https://github.com/RexJohn1911/LeetCode_/tree/master/1816-truncate-sentence) |
 ## Linked List
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/RexJohn1911/LeetCode_/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/RexJohn1911/LeetCode_/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RexJohn1911/LeetCode_/tree/master/0628-maximum-product-of-three-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/RexJohn1911/LeetCode_/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
@@ -95,4 +97,5 @@
 | ------- |
 | [0001-two-sum](https://github.com/RexJohn1911/LeetCode_/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/RexJohn1911/LeetCode_/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/RexJohn1911/LeetCode_/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
