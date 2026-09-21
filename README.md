@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RexJohn1911/LeetCode_/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/RexJohn1911/LeetCode_/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/RexJohn1911/LeetCode_/tree/master/0217-contains-duplicate) |
 | [0410-split-array-largest-sum](https://github.com/RexJohn1911/LeetCode_/tree/master/0410-split-array-largest-sum) |
@@ -92,5 +93,6 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RexJohn1911/LeetCode_/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/RexJohn1911/LeetCode_/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
