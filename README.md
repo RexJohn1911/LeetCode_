@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/RexJohn1911/LeetCode_/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/RexJohn1911/LeetCode_/tree/master/0387-first-unique-character-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RexJohn1911/LeetCode_/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1816-truncate-sentence](https://github.com/RexJohn1911/LeetCode_/tree/master/1816-truncate-sentence) |
 ## Linked List
@@ -58,6 +59,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/RexJohn1911/LeetCode_/tree/master/0387-first-unique-character-in-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/RexJohn1911/LeetCode_/tree/master/1833-maximum-ice-cream-bars) |
 ## Simulation
 |  |
@@ -98,4 +100,9 @@
 | [0001-two-sum](https://github.com/RexJohn1911/LeetCode_/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/RexJohn1911/LeetCode_/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RexJohn1911/LeetCode_/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/RexJohn1911/LeetCode_/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/RexJohn1911/LeetCode_/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
