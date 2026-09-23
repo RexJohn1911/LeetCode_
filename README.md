@@ -39,6 +39,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/RexJohn1911/LeetCode_/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/RexJohn1911/LeetCode_/tree/master/1137-n-th-tribonacci-number) |
 | [1952-three-divisors](https://github.com/RexJohn1911/LeetCode_/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/RexJohn1911/LeetCode_/tree/master/2427-number-of-common-factors) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/RexJohn1911/LeetCode_/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/RexJohn1911/LeetCode_/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Recursion
@@ -124,10 +125,12 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/RexJohn1911/LeetCode_/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/RexJohn1911/LeetCode_/tree/master/2427-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/RexJohn1911/LeetCode_/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/RexJohn1911/LeetCode_/tree/master/2427-number-of-common-factors) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -136,4 +139,12 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/RexJohn1911/LeetCode_/tree/master/1952-three-divisors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/RexJohn1911/LeetCode_/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/RexJohn1911/LeetCode_/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
