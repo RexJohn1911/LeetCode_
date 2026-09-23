@@ -26,6 +26,7 @@
 | [0771-jewels-and-stones](https://github.com/RexJohn1911/LeetCode_/tree/master/0771-jewels-and-stones) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RexJohn1911/LeetCode_/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1816-truncate-sentence](https://github.com/RexJohn1911/LeetCode_/tree/master/1816-truncate-sentence) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/RexJohn1911/LeetCode_/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0383-ransom-note](https://github.com/RexJohn1911/LeetCode_/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RexJohn1911/LeetCode_/tree/master/0387-first-unique-character-in-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/RexJohn1911/LeetCode_/tree/master/1833-maximum-ice-cream-bars) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/RexJohn1911/LeetCode_/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
 | ------- |
@@ -118,6 +120,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/RexJohn1911/LeetCode_/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/RexJohn1911/LeetCode_/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/RexJohn1911/LeetCode_/tree/master/1207-unique-number-of-occurrences) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/RexJohn1911/LeetCode_/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Queue
 |  |
 | ------- |
