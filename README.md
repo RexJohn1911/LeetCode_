@@ -11,6 +11,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/RexJohn1911/LeetCode_/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/RexJohn1911/LeetCode_/tree/master/0643-maximum-average-subarray-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/RexJohn1911/LeetCode_/tree/master/1019-next-greater-node-in-linked-list) |
+| [1207-unique-number-of-occurrences](https://github.com/RexJohn1911/LeetCode_/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RexJohn1911/LeetCode_/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1816-truncate-sentence](https://github.com/RexJohn1911/LeetCode_/tree/master/1816-truncate-sentence) |
 | [1833-maximum-ice-cream-bars](https://github.com/RexJohn1911/LeetCode_/tree/master/1833-maximum-ice-cream-bars) |
@@ -116,6 +117,7 @@
 | [0383-ransom-note](https://github.com/RexJohn1911/LeetCode_/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RexJohn1911/LeetCode_/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/RexJohn1911/LeetCode_/tree/master/0771-jewels-and-stones) |
+| [1207-unique-number-of-occurrences](https://github.com/RexJohn1911/LeetCode_/tree/master/1207-unique-number-of-occurrences) |
 ## Queue
 |  |
 | ------- |
