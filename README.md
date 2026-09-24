@@ -16,6 +16,7 @@
 | [1816-truncate-sentence](https://github.com/RexJohn1911/LeetCode_/tree/master/1816-truncate-sentence) |
 | [1833-maximum-ice-cream-bars](https://github.com/RexJohn1911/LeetCode_/tree/master/1833-maximum-ice-cream-bars) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/RexJohn1911/LeetCode_/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RexJohn1911/LeetCode_/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [2427-number-of-common-factors](https://github.com/RexJohn1911/LeetCode_/tree/master/2427-number-of-common-factors) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/RexJohn1911/LeetCode_/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/RexJohn1911/LeetCode_/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RexJohn1911/LeetCode_/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
 | ------- |
