@@ -8,6 +8,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/RexJohn1911/LeetCode_/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/RexJohn1911/LeetCode_/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RexJohn1911/LeetCode_/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/RexJohn1911/LeetCode_/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/RexJohn1911/LeetCode_/tree/master/0410-split-array-largest-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RexJohn1911/LeetCode_/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/RexJohn1911/LeetCode_/tree/master/0643-maximum-average-subarray-i) |
@@ -42,6 +43,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/RexJohn1911/LeetCode_/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/RexJohn1911/LeetCode_/tree/master/0007-reverse-integer) |
+| [0268-missing-number](https://github.com/RexJohn1911/LeetCode_/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/RexJohn1911/LeetCode_/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RexJohn1911/LeetCode_/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/RexJohn1911/LeetCode_/tree/master/1137-n-th-tribonacci-number) |
@@ -69,6 +71,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/RexJohn1911/LeetCode_/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RexJohn1911/LeetCode_/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/RexJohn1911/LeetCode_/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RexJohn1911/LeetCode_/tree/master/0628-maximum-product-of-three-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/RexJohn1911/LeetCode_/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
@@ -94,6 +97,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RexJohn1911/LeetCode_/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/RexJohn1911/LeetCode_/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/RexJohn1911/LeetCode_/tree/master/0410-split-array-largest-sum) |
 ## Dynamic Programming
 |  |
@@ -122,6 +126,7 @@
 | [0217-contains-duplicate](https://github.com/RexJohn1911/LeetCode_/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RexJohn1911/LeetCode_/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/RexJohn1911/LeetCode_/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/RexJohn1911/LeetCode_/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/RexJohn1911/LeetCode_/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/RexJohn1911/LeetCode_/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RexJohn1911/LeetCode_/tree/master/0387-first-unique-character-in-a-string) |
@@ -163,4 +168,8 @@
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/RexJohn1911/LeetCode_/tree/master/2427-number-of-common-factors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/RexJohn1911/LeetCode_/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
